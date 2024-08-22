@@ -56,6 +56,8 @@ section{
     display: flex;
     flex-direction: row;
     margin: 150px 50px;
+    width: 1200px;
+    margin: auto;
 }
 
 .containerDentro{
@@ -70,7 +72,7 @@ section{
     position: absolute;
     width: 100px;
     height: 100px;
-    background: url('/public/Images/Layer_1-2.png');
+    background: url('/Images/Layer_1-2.png');
     background-size: contain;
     bottom: 0;
     left: 0;
